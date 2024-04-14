@@ -1,7 +1,7 @@
 ## Hi there 👋 
 I'm a Computer Science and Mathematics student at Sorbonne University . 
 
-## ✨ Passions
+## ✨ Interests 
 - 🔭 **Astronomy**
 - ♟️ **Chess**
 
