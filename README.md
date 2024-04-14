@@ -1,9 +1,9 @@
 ## Hi there 👋 
 I'm a Computer Science and Mathematics student at Sorbonne University . 
 
-## 🌌 Passions
-- **Astronomy**
-- **Chess**
+## ✨ Passions
+- 🔭 **Astronomy**
+- ♟️ **Chess**
 
 ## 📫 Contact
 - [**Email Adress**](mailto:Belgacem.Smaali@etu.sorbonne-universite.fr)
