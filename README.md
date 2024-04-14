@@ -1,4 +1,4 @@
-## 👋 Introduction
+## 👋 
 Hello! I'm a Computer Science and Mathematics student at Sorbonne University . 
 
 ## 🌌 Passions
