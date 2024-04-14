@@ -1,5 +1,5 @@
 ## 👋 Introduction
-Hello! I'm a Computer Science and Mathematics student at Sorbonne University . With a passion for chess and astronomy, I aim to merge my interests to develop innovative and relevant projects in these fields.
+Hello! I'm a Computer Science and Mathematics student at Sorbonne University . 
 
 ## 🌌 Passions
 - **Chess**
