@@ -6,10 +6,11 @@ I'm a Computer Science and Mathematics student at Sorbonne University .
 - ♟️ **Chess**
 
 ## 👨‍💻 Programming Languages
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-- ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat&logo=ocaml&logoColor=white)
+- <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+- <img src="https://skillicons.dev/icons?i=c" alt="C"/>
+- <img src="https://skillicons.dev/icons?i=java" alt="Java"/>
+- <img src="https://skillicons.dev/icons?i=ocaml" alt="OCaml"/>
+- <img src="https://skillicons.dev/icons?i=sql" alt="SQL"/>
 
 ## 📫 Contact
 - [**Email Adress**](mailto:Belgacem.Smaali@etu.sorbonne-universite.fr)
