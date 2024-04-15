@@ -11,7 +11,7 @@ I'm a Computer Science and Mathematics student at Sorbonne University .
   <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=ocaml" alt="OCaml" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
 </p>
 
 
